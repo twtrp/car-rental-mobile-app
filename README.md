@@ -1,5 +1,6 @@
 ### How to setup
-Enter in terminal: `npm install`
+1. Enter in terminal: `cd vroomly-app`
+2. Enter in terminal: `npm install`
 
 ### How to start
 1. Enter in terminal: `cd vroomly-app`
