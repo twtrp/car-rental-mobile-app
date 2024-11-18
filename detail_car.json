@@ -1,0 +1,102 @@
+[ {
+    "name" : "Acura NSX",
+    "color" : "Red",
+    "images" : [ "./assets/cars/Acura_NSX.png" ] ,
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]  
+  }, {
+    "name" : "Aston Martin Vulcan",
+    "color" : "Orange",
+    "images" : [ "./assets/cars/AM_Vulcan.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  }, {
+    "name" : "Chevrolet Camaro",
+    "color" : "Orange",
+    "images" : [ "./assets/cars/Chevy_Camaro_18.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  }, {
+    "name" : "Bugatti Chiron",
+    "color" : "Black/Blue",
+    "images" : [ "./assets/cars/Bugatti_Chiron.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  } , {
+    "name" : "Dodge Challenger",
+    "color" : "Red",
+    "images" : [ "./assets/cars/Dodge_Challenger_15.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  } , {
+    "name" : "Ferrari LaFerrari",
+    "color" : "Red",
+    "images" : [ "./assets/cars/Ferrari_LaFerrari.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  } , {
+    "name" : "Ford Shelby GT350",
+    "color" : "Orange",
+    "images" : [ "./assets/cars/Ford_Shelby.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  } , {
+    "name" : "Henessy Venom",
+    "color" : "Orange",
+    "images" : [ "./assets/cars/Hennessey_Venom.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  } , {
+    "name" : "Honda NSX-R GT",
+    "color" : "White/Black",
+    "images" : [ "./assets/cars/Honda_NSX-R_GT.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  } , {
+    "name" : "Koenigsegg Agera One",
+    "color" : "White/Black/Orange",
+    "images" : [ "./assets/cars/Koenigsegg_One-1.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  } , {
+    "name" : "Lamboghini Centanario",
+    "color" : "Black/Yellow",
+    "images" : [ "./assets/cars/Lamborghini_Centenario_LP_770-4.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  } , {
+    "name" : "Mclaren P1",
+    "color" : "Orange",
+    "images" : [ "./assets/cars/McLaren_P1.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  } , {
+    "name" : "Mitsibishi Evo10",
+    "color" : "Red",
+    "images" : [ "./assets/cars/Mitsubishi_Lancer_08.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  } , {
+    "name" : "Nissan GTR",
+    "color" : "Orange",
+    "images" : [ "./assets/cars/Nissan_GT-R_17.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  } , {
+    "name" : "Pagani Huayra",
+    "color" : "White",
+    "images" : [ "./assets/cars/Pagani_Huayra_16.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  } , {
+    "name" : "Peel P50",
+    "color" : "Red",
+    "images" : [ "./assets/cars/Peel_P50_1962.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  } , {
+    "name" : "Peugeot 207",
+    "color" : "White/Red",
+    "images" : [ "./assets/cars/Peugeot_207.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  } , {
+    "name" : "Porsche 911(991.2) GT3Rs",
+    "color" : "Green",
+    "images" : [ "./assets/cars/Porsche_911_GT3_RS_2019.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  }, {
+    "name" : "Toyota GR supra",
+    "color" : "Silver",
+    "images" : [ "./assets/cars/Toyota_GR_Supra_Large.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  }, {
+    "name" : "Volkswagen Van E",
+    "color" : "Green",
+    "images" : [ "./assets/cars/Volkswagen_Type_2_De_Luxe.png" ],
+    "rent_dates": ["yyyy-mm-dd", "yyyy-mm-dd"]
+  } ]
+  
